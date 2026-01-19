@@ -168,13 +168,13 @@ function ContentSection(props) {
           <Subheading>Current Bursaries</Subheading>
           <List>
             <ListItem>
-              St. George's School Bursary, highlighting the school's emphasis on creative thinking and self-expression. (<StyledLink href="#">Link</StyledLink>)
+              <StyledLink href="https://www.stgeorges.qc.ca/admissions/tuition-scholarships-bursaries/" target="_blank" rel="noopener noreferrer">St. George's School Bursary</StyledLink>, highlighting the school's emphasis on creative thinking and self-expression.
             </ListItem>
             <ListItem>
-              McGill Women in Computer Science Scholarship, supporting women entering technical fields. (<StyledLink href="#">Video Link</StyledLink>)
+              <StyledLink href="https://www.youtube.com/watch?v=OAaRIYWLyA4" target="_blank" rel="noopener noreferrer">McGill Women in Computer Science Scholarship</StyledLink>, supporting women entering technical fields.
             </ListItem>
             <ListItem>
-              Selwyn House Scholarship, supporting boys' education in parallel with other youth-focused initiatives. (<StyledLink href="#">Link to financial aid page</StyledLink>)
+              <StyledLink href="https://www.selwyn.ca/admissions/tuition-and-bursaries#:~:text=For%20new%20students%20entering%20Grades,assessed%20on%20an%20individual%20basis." target="_blank" rel="noopener noreferrer">Selwyn House Scholarship</StyledLink>, supporting boys' education in parallel with other youth-focused initiatives.
             </ListItem>
           </List>
         </Subsection>
