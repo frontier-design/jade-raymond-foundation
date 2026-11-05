@@ -7,6 +7,7 @@ import Header from './components/Header.jsx'
 import About from './components/About.jsx'
 import FocusAreas from './components/FocusAreas.jsx'
 import Bursaries from './components/Bursaries.jsx'
+import News from './components/News.jsx'
 import Status from './components/Status.jsx'
 import UpdatesForm from './components/UpdatesForm.jsx'
 import Footer from './components/Footer.jsx'
@@ -66,6 +67,7 @@ function App() {
         <About />
         <FocusAreas />
         <Bursaries />
+        <News />
         <Status />
         <UpdatesForm />
         <Footer />

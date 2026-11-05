@@ -3,12 +3,13 @@ import styled from 'styled-components'
 import { gsap } from 'gsap'
 import { GRID } from '../grid'
 
-const NAV_ITEMS = ['About', 'Focus Areas', 'Bursaries', 'Status']
+const NAV_ITEMS = ['About', 'Focus Areas', 'Bursaries', 'News', 'Status']
 
 const SECTION_IDS = {
   'About': 'about-heading',
   'Focus Areas': 'focus-areas-heading',
   'Bursaries': 'bursaries-heading',
+  'News': 'news-heading',
   'Status': 'status-heading',
 }
 
